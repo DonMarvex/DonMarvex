@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DonMarvex
-- 👀 I’m interested in Python, ML & AI
-- 🌱 I’m currently learning Python for various use cases and then especially for Data Analytics and Machine Learning
+- 👀 I’m a Python Developer
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: Twitter: @https://twitter.com/cpt_marvex
 
