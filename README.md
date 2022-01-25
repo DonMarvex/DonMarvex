@@ -4,7 +4,9 @@
 - 📫 How to reach me: Twitter: [@cpt_marvex](https://twitter.com/cpt_marvex)
 
 - Other links:
+
 Kaggle: https://www.kaggle.com/donmarvex/
+
 LinkedIn: https://www.linkedin.com/in/marvelous-emoghene-69738a166/
 <!---
 DonMarvex/DonMarvex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
