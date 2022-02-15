@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DonMarvex
-- 👀 I’m a Python Developer
+- 👀 I’m a Software Engineer
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: Twitter: [@cpt_marvex](https://twitter.com/cpt_marvex)
 
