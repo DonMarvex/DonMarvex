@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DonMarvex
+- 👋 Hi, I’m Marvelous Emoghene
 - 👀 I’m a Software Engineer
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: Twitter: [@cpt_marvex](https://twitter.com/cpt_marvex)
