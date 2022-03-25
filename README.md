@@ -11,6 +11,9 @@
 <a href="mailto:marvelous.emoghene@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.15.0/icons/gmail.svg" alt="" height="30" width="40" /></a>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donmarvex&show_icons=true&theme=radical)
+
+
 <!---
 DonMarvex/DonMarvex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
