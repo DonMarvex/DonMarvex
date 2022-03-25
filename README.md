@@ -11,7 +11,7 @@
 <a href="mailto:marvelous.emoghene@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.15.0/icons/gmail.svg" alt="" height="30" width="40" /></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donmarvex&show_icons=true&theme=radical)
+![Donmarvex's GitHub stats](https://github-readme-stats.vercel.app/api?username=donmarvex&show_icons=true&theme=radical)
 
 
 <!---
