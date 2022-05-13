@@ -1,18 +1,13 @@
-- 👋 Hi, I’m Marvelous Emoghene
+### 👋Hi, I’m Marvelous Emoghene
 - 👀 I’m a Software Engineer
+- ⚖️ I love to write and build scalable solutions
 - 💞️ I’m looking to collaborate on Open Source Projects
 
 <h3 align="left">Connect with me on Social Media:</h3>
 <p align="left">
-<a href="https://twitter.com/cpt_marvex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.15.0/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/marvelous-emoghene-69738a166/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.15.0/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://instagram.com/chiefmarvel_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.15.0/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/donmarvex/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.15.0/icons/kaggle.svg" alt="" height="30" width="40" /></a>
-<a href="mailto:marvelous.emoghene@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.15.0/icons/gmail.svg" alt="" height="30" width="40" /></a>
-</p>
+<p align="left"> <a href="https://discord.com/users/KINGxKOBRA#0952" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/donmarvex" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://donmarvex" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/chiefmarvel_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/marvelous-emoghene-69738a166/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18216290/marvelous-emoghene" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/cpt_marvex" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-![Donmarvex's GitHub stats](https://github-readme-stats.vercel.app/api?username=donmarvex&show_icons=true&theme=cobalt)
-
+<a href="http://www.github.com/donmarvex"><img src="https://github-readme-stats.vercel.app/api?username=donmarvex&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="donmarvex's GitHub stats" /></a>
 
 <!---
 DonMarvex/DonMarvex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
